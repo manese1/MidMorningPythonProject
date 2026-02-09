@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="07259fcb-e0e0-4d78-81c0-7a84e7dbb75b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user inputoutput.py" beforeDir="false" afterPath="$PROJECT_DIR$/userinputoutput.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +35,16 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.assignment.executor": "Run",
+    "Python.calculator.executor": "Run",
     "Python.datatypes.executor": "Run",
+    "Python.exceptionhandling.executor": "Run",
     "Python.functions.executor": "Run",
     "Python.loops.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.mathmodule.executor": "Run",
+    "Python.module.executor": "Run",
     "Python.strings.executor": "Run",
+    "Python.userinputoutput.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -83,7 +88,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.308" />
         <option value="bundled-python-sdk-ca5e2b39c7df-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.308" />
       </set>
     </attachedChunks>
@@ -98,6 +102,7 @@
       <workItem from="1770194409392" duration="6053000" />
       <workItem from="1770366711754" duration="2135000" />
       <workItem from="1770368870421" duration="5140000" />
+      <workItem from="1770625633209" duration="782000" />
     </task>
     <servers />
   </component>
